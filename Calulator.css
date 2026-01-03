@@ -3,7 +3,7 @@
 }
 .container{
     margin: auto;
-    display:flexbox;
+    display:flex;
     flex-direction: column;
     text-align: center;
     
@@ -19,6 +19,7 @@ button{
 .display{
     margin: 0px;
     padding: 10px;
+    font-weight: bold;
 }
 input{
     padding: 6px 50px;
